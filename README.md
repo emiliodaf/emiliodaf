@@ -1,7 +1,7 @@
 ### Hi there🖐️
 
    I am a Front End Software Engenieer. I consider myself an enthusiast of Technology who is working on a daily basis in order to grow my hard skills and knowledge to be an updated Front End developer on the market.
-   I have just 8 months experience as a Front End developer but with a huge desire to make things happen. It's been  a challenging experience but when we realize it and see our personal growth not only as an human being and but also as Software Engenieer we figure out for ourselves that all the long hours invested worth the effort.  For many times It's been challenging but at the same time a really gratifing experience. If you have a purpose in life Keep moving on and  Never give up! It doesn't matter how long it will take!
+   I have just 8 months experience as a Front End developer but with a huge desire to make things happen. It's been  a challenging experience but when we realize it and see our personal growth not only as an human being but also as Software Engenieer we figure out for ourselves that all the long hours invested worth the effort.  For many times It's been challenging but at the same time a really gratifing experience. If you have a purpose in life Keep moving on and  Never give up! It doesn't matter how long it will take!
 Just Make it happen!
 	
   ![Emiliodaf GitHub stats](https://github-readme-stats.vercel.app/api?username=emiliodaf&show_icons=true&theme=radical)
