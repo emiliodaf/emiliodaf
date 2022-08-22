@@ -1,8 +1,7 @@
 ### Hi there🖐️
 
    I am an aspiring Junior Front End Software Engineer. I consider myself an enthusiast of Technology who is working hard in order to take my hard and soft skills to the next level.
-   I have just 8 months experience as a Front End developer but with a huge desire to make things happen. It's been  a challenging experience but when we realize it and see our personal growth not only as an human being but also as Software Engenieer we figure out for ourselves that all the long hours invested worth the effort.  For many times It's been challenging but at the same time a really gratifing experience. If you have a purpose in life Keep moving on and  Never give up! It doesn't matter how long it will take!
-Just Make it happen!
+   I have just 9 months experience as a Front End developer but with a huge desire to make things happen. It's been  a challenging experience but when we realize it and see our personal growth not only as an human being but also as Software Engenieer we figure out for ourselves that all the long hours invested worth the effort.  For many times It's been challenging but at the same time a really gratifing experience. If you have a purpose in life keep moving on and  never give up! It doesn't matter how long it will take!...just make it happen!
 
 Get in touch: My Twitter... https://twitter.com/DafEmilio
 	
