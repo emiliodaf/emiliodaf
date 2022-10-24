@@ -7,7 +7,7 @@
 Education material should teach real life skills that are current and they should not waste a student's 
 valuable time. If you have a purpose in life keep moving on and  never give up! It doesn't matter how long it will take!...just make it happen!
 
-Get in touch: My Twitter... https://twitter.com/DafEmilio
+
 	
   ![Emiliodaf GitHub stats](https://github-readme-stats.vercel.app/api?username=emiliodaf&show_icons=true&theme=radical)
 	
